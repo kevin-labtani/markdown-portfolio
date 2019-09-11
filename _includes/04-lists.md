@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* :+1:
+* :smile:
+  * :kissing_smiling_eyes:
+  * :sleeping:
